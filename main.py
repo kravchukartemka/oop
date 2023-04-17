@@ -1,2 +1,7 @@
 class Example:
-    pass
+     typ = "теоретический"
+
+
+one = Example()
+one.typ='asd'
+print(one.typ)
